@@ -1,0 +1,16 @@
+Author - Neha M (B14113)
+
+Instructions - 
+	1. To run DVFC algorithm type the following command in ubuntu terminal --> make DVFC
+	2. To run DVFC algorithm type the following command in ubuntu terminal --> make Backtrack
+
+Key points - 
+	1. The values in 'cyan' in the gui are the values in current partial solution
+	2. The values in 'orange' are the values tried in past which were inconsistent with the partial solution
+	3. The values in 'white' are values yet to be tried
+	4. The values in 'red' in DVFC are the values rejected due to lookahead
+	5. A sample input json file is given (input.json), the input CSP is to be written in json file in explicit form.
+
+Dependencies - 
+	1. Python 2
+	2. Tkinter library in python	
